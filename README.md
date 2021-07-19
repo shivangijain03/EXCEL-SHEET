@@ -1,5 +1,5 @@
-# Excel-Book
-Excel-Book is a web application which is a clone of MS-EXCEL  
+# Excel-SHEET
+Excel-Sheet is a web application which is a clone of MS-EXCEL  
 
 DEMO LINK => https://rishabhgoyal9.github.io/Excel-Book/
 
