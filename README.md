@@ -1,7 +1,7 @@
 # Excel-SHEET
 Excel-Sheet is a web application which is a clone of MS-EXCEL  
 
-DEMO LINK => https://rishabhgoyal9.github.io/Excel-Book/
+DEMO LINK =>  https://shivangijain03.github.io/EXCEL-SHEET/
 
 NOTE => To use Excel Formula on Cells, 
                       
